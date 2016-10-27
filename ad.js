@@ -28,6 +28,7 @@ function FindProxyForURL(url, host){
 "admaster.com.cn",
 "irs01.com",   
 "miaozhen.com",
+"wrating.com",
 //<v-youku>
 "atm.cp31.ott.cibntv.net",
 "atm.youku.com",
