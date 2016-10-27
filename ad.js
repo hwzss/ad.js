@@ -108,6 +108,12 @@ function FindProxyForURL(url, host){
 "n.mark.letv.com",
 //<v-pptv>
 "asimgs.pplive.cn",
+"ads.aplus.pptv.com",
+"ads.aplusapi.pptv.com",
+"de.as.pptv.com",
+"imagecache.g.pptv.com",
+"static.g.pptv.com",
+"tj.g.pptv.com",
 "asimgs.cp61.ott.cibntv.net",
 "de.as.cp61.ott.cibntv.net",   
 //<v-qq>
