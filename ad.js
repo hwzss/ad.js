@@ -110,7 +110,6 @@ function FindProxyForURL(url, host){
 //<v-pptv>
 "asimgs.pplive.cn",
 "ads.data.pplive.com",
-"ins.pplive.com",
 "ads.aplus.pptv.com",
 "ads.aplusapi.pptv.com",
 "de.as.pptv.com",
@@ -143,7 +142,6 @@ function FindProxyForURL(url, host){
 "mobilemsg.youku.com",
 "passport-log.youku.com",
 "push.m.youku.com",
-"stat.youku.com",
 "wan.youku.com",
 "yes.youku.com",
 "e.stat.ykimg.com",
