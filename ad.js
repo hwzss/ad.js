@@ -120,7 +120,6 @@ function FindProxyForURL(url, host){
 //<v-youku>
 "atm.cp31.ott.cibntv.net",
 "ad.api.3g.tudou.com",
-"stats.tudou.com",
 "ad.api.3g.youku.com",
 "atm.youku.com",
 "b.smartvideo.youku.com",
@@ -134,7 +133,6 @@ function FindProxyForURL(url, host){
 "mobilemsg.youku.com",
 "passport-log.youku.com",
 "push.m.youku.com",
-"sdk.m.youku.com",
 "stat.youku.com",
 "wan.youku.com",
 "yes.youku.com",
