@@ -37,9 +37,15 @@ function FindProxyForURL(url, host){
 "mmstat.com",
 "tanx.com",
 //<baidu>
-"share.baidu.com",
-"pos.baidu.com",
 "baidustatic.com",
+"bzclk.baidu.com",
+"eclick.baidu.com",
+"eiv.baidu.com",
+"entry.baidu.com",
+"hm.baidu.com",
+"nsclick.baidu.com",
+"pos.baidu.com",
+"share.baidu.com",
 //<google>
 "2mdn.net",
 "doubleclick.net",
