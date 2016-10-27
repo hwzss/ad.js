@@ -113,7 +113,6 @@ function FindProxyForURL(url, host){
 "ins.pplive.com",
 "ads.aplus.pptv.com",
 "ads.aplusapi.pptv.com",
-"as.aplus.pptv.com",
 "de.as.pptv.com",
 "imagecache.g.pptv.com",
 "img1.g.pptv.com",
