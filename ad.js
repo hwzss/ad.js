@@ -25,6 +25,8 @@ function FindProxyForURL(url, host){
 //<ad.js_test>
 "sc.cdce.cf",
 //<v>
+"admaster.com.cn",
+"irs01.com",   
 "miaozhen.com",
 //<v-youku>
 "atm.cp31.ott.cibntv.net",
