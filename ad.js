@@ -39,6 +39,8 @@ function FindProxyForURL(url, host){
 //<baidu>
 "baidustatic.com",
 "bzclk.baidu.com",
+"cbjs.baidu.com",
+"cpro.baidu.com",
 "eclick.baidu.com",
 "eiv.baidu.com",
 "entry.baidu.com",
@@ -72,8 +74,6 @@ function FindProxyForURL(url, host){
 "gridsum.com",
 "gridsumdissector.cn",
 "gridsumdissector.com",
-//<m-itunes-radio>
-"iadctest.qwapi.com",
 //<v-baofeng>
 "logger.baofeng.com",
 "houyi.baofeng.net",
@@ -84,9 +84,14 @@ function FindProxyForURL(url, host){
 "cupid.iqiyi.com",
 "cupid.ptqy.gitv.tv",
 "cupid.qiyi.com",
+//<v-letv>
+"ark.letv.com",
+"msg.m.letv.com",
+"n.mark.letv.com",
 //<v-pptv>
 "aplus.pptv.com",
 "g.pptv.com",
+"ads.data.pplive.com",
 //<v-qq>
 "aiseet.atianqi.com",
 "l.qq.com",
@@ -95,8 +100,12 @@ function FindProxyForURL(url, host){
 "stat.v-56.com",
 //<v-youku>
 "atm.cp31.ott.cibntv.net",
+"ad.api.3g.tudou.com",
+"ad.api.3g.youku.com",
 "atm.youku.com",
 "gamex.mobile.youku.com",
+//<m-itunes-radio>
+"iadctest.qwapi.com",
 //<m-qingting.fm>
 "ad.qingting.fm",
 "admgr.qingting.fm",
