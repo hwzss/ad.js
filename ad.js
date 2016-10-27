@@ -107,6 +107,9 @@ function FindProxyForURL(url, host){
 "msg.m.letv.com",
 "n.mark.letv.com",
 //<v-pptv>
+"asimgs.pplive.cn",
+"asimgs.cp61.ott.cibntv.net",
+"de.as.cp61.ott.cibntv.net",   
 //<v-qq>
 "aiseet.atianqi.com",
 "l.qq.com",
