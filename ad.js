@@ -128,7 +128,6 @@ function FindProxyForURL(url, host){
 "gamex.mobile.youku.com",
 "guanggaoad.youku.com",
 "hudong.pl.youku.com",
-"l.youku.com",
 "lstat.youku.com",
 "mobilemsg.youku.com",
 "passport-log.youku.com",
