@@ -80,6 +80,17 @@ function FindProxyForURL(url, host){
 //<v-hunantv>
 "da.hunantv.com",
 "log.hunantv.com",
+//<v-kankan>
+"biz5.sandai.net",
+"float.sandai.net",
+"logic.cpm.cm.sandai.net",
+"biz5.kankan.com",
+"cm.kankan.com",
+"float.kankan.com",
+"kkpgv.kankan.com",
+"kkpgv2.kankan.com",
+"kkpgv2.xunlei.com",
+"material.ssp.xunlei.com",     
 //<v-iqiyi>
 "cupid.iqiyi.com",
 "cupid.ptqy.gitv.tv",
