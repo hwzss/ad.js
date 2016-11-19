@@ -106,7 +106,6 @@ function FindProxyForURL(url, host){
 "fz.letv.com",
 "g3.letv.com",
 "msg.m.letv.com",
-"n.mark.letv.com",
 //<v-pptv>
 "asimgs.pplive.cn",
 "ads.aplus.pptv.com",
