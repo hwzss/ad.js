@@ -102,7 +102,6 @@ function FindProxyForURL(url, host){
 "cupid.ptqy.gitv.tv",
 "cupid.qiyi.com",
 //<v-letv>
-"ark.letv.com",
 "fz.letv.com",
 "g3.letv.com",
 "msg.m.letv.com",
