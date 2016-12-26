@@ -104,7 +104,6 @@ function FindProxyForURL(url, host){
 "cupid.qiyi.com",
 "msg.iqiyi.com",
 //<v-letv>
-"api.mob.app.letv.com", 
 "fz.letv.com",
 "g3.letv.com",
 "msg.m.letv.com",
