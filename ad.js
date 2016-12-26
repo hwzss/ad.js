@@ -4,15 +4,15 @@
 
 function FindProxyForURL(url, host){
 
-    /********************************************
-    *                                           *
-    *            关于 “mode = ” 的说明            *
-    *                                           *
-    *  0: 不使用代理 (仅屏蔽广告)                  *
-    *  1: 使用http代理 (请在下方设置服务器和端口)    *
-    *  2: 使用pac规则代理 (使用方法请看文件底部注释)  *
-    *                                           *
-    ********************************************/
+    /****************************************************
+    *							*
+    *            关于 “mode = ” 的说明			*
+    *							*
+    *  0: 不使用代理 (仅屏蔽广告)				*
+    *  1: 使用http代理 (请在下方设置服务器和端口)		*
+    *  2: 使用pac规则代理 (使用方法请看文件底部注释)	*
+    *							*
+    ****************************************************/
 
     var mode = 0;
 
@@ -98,10 +98,14 @@ function FindProxyForURL(url, host){
 "kkpgv2.xunlei.com",
 "material.ssp.xunlei.com",     
 //<v-iqiyi>
-"cupid.iqiyi.com",
 "cupid.ptqy.gitv.tv",
+"msg.71.am",
+"cupid.iqiyi.com",
 "cupid.qiyi.com",
+"msg.iqiyi.com",
 //<v-letv>
+"api.mob.app.letv.com", 
+"ark.letv.com",
 "fz.letv.com",
 "g3.letv.com",
 "msg.m.letv.com",
@@ -125,6 +129,7 @@ function FindProxyForURL(url, host){
 "atm.cp31.ott.cibntv.net",
 "ad.api.3g.tudou.com",
 "ad.api.3g.youku.com",
+"ad.api.mobile.youku.com",
 "atm.youku.com",
 "b.smartvideo.youku.com",
 "dev-push.m.youku.com",
@@ -217,12 +222,12 @@ function FindProxyForURL(url, host){
     return IS_NOT_AD;
 }
 
-/**********************************************
-*                                             *
-*            使用pac规则代理的方法               *
-*                                             *
-*  1. 设置“mode = 2”。                         *
-*  2. 打开pac文件，将里面的“FindProxyForURL”替换  *
-*     为“FindUserProxyForURL“后粘贴在下方即可。  *
-*                                             *
-**********************************************/
+/************************************************
+*						*
+*            使用pac规则代理的方法		*
+*						*
+*  1. 设置“mode = 2”。				*
+*  2. 打开pac文件，将里面的“FindProxyForURL”	*
+*     替换为“FindUserProxyForURL“后  		*
+*     粘贴在下方即可。				*
+************************************************/
