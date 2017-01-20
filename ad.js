@@ -65,6 +65,7 @@ function FindProxyForURL(url, host){
 "images.sohu.com",
 "inte.sogou.com",
 "brand.sogou.com",
+"aty.sohu.com",
 //<v>
 "admaster.com.cn",
 "biddingx.com",
@@ -118,7 +119,8 @@ function FindProxyForURL(url, host){
 "asimgs.cp61.ott.cibntv.net",
 "de.as.cp61.ott.cibntv.net",   
 //<v-qq>
-"aiseet.atianqi.com",
+"l.aiseet.atianqi.com",
+"vmindhls.tc.qq.com",
 "l.qq.com",
 //<v-sohu>
 "aty.sohu.com",
