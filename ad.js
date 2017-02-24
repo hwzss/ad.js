@@ -66,6 +66,7 @@ function FindProxyForURL(url, host){
 "inte.sogou.com",
 "brand.sogou.com",
 "aty.sohu.com",
+"stat.v-56.com",
 //<v>
 "admaster.com.cn",
 "biddingx.com",
@@ -122,9 +123,6 @@ function FindProxyForURL(url, host){
 "l.aiseet.atianqi.com",
 "vmindhls.tc.qq.com",
 "l.qq.com",
-//<v-sohu>
-"aty.sohu.com",
-"stat.v-56.com",
 //<v-youku>
 "atm.cp31.ott.cibntv.net",
 "ad.api.3g.tudou.com",
